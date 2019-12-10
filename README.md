@@ -1,7 +1,7 @@
 First - going to learn how to use pandas to import/manipulate Microsoft Excel sheets
 
-How to import excel sheets: https://datatofish.com/read_excel/  
-How to hide filepaths/API Keys: http://www.blacktechdiva.com/hide-api-keys/
+How to import excel sheets: https://pythonspot.com/read-excel-with-pandas/ (use sheet_name instead of sheetname - sheetname is deprecated)
+How to hide filepaths/API Keys: http://www.blacktechdiva.com/hide-api-keys/ (Don't need this if excel sheet is in same directory)	
 
 Received this error:  Install xlrd >= 1.0.0 for Excel support
 Solved by: pip install xlrd
