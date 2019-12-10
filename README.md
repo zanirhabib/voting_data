@@ -2,6 +2,9 @@ First - going to learn how to use pandas to import/manipulate Microsoft Excel sh
 
 How to import excel sheets: https://datatofish.com/read_excel/  
 How to hide filepaths/API Keys: http://www.blacktechdiva.com/hide-api-keys/
+
+Received this error:  Install xlrd >= 1.0.0 for Excel support
+Solved by: pip install xlrd
 	
 Next, I will going to take a look at data in Michigan during 2016 election
 
